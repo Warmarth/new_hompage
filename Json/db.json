@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "a wonderful day",
+      "body": "React Developer Tools can be used to inspect apps built with React Native as well.",
+      "author": "Aria",
+      "id": 1
+    },
+    {
+      "title": "the Prize",
+      "body": "Our multifunctional collection blends design and function to suit your individual taste. Make each room unique, or pick a cohesive theme that best express your interests and what inspires you",
+      "author": "sammi",
+      "id": 2
+    },
+    {
+      "title": "my odel",
+      "body": "We provide unmatched quality, comfort, and style for property owners across the country .",
+      "author": "Amanda",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "body": "hello",
+      "author": "Warmarth",
+      "id": 19
+    }
+  ]
+}
